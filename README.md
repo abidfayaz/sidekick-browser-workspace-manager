@@ -99,16 +99,16 @@ This is an early beta. I am sharing it to collect feedback and improve the produ
 
 Please share feedback here:
 
-[Add your Google Form link here]
+https://docs.google.com/forms/d/e/1FAIpQLSfC0KfcUBlcVmrRTSQ2DKMXFl8_tSAphh2HKgRUr5wFbyOveg/viewform?usp=publish-editor
 
 ## Case study
 
 Read the full product case study here:
 
-[Add your Notion case study link here]
+https://www.notion.so/Sidekick-A-privacy-first-AI-assisted-browser-workspace-manager-3a5fe8d37d2380f3834ee8facb765fae?source=copy_link 
 
 ## Status
 
-Working prototype tested end to end.
+Working prototype tested end-to-end.
 
 Current sharing method: GitHub manual install beta.
